@@ -1,7 +1,0 @@
-echo "# Afrxy" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M Afrxy
-git remote add origin https://github.com/Afrxy/Afrxy.git
-git push -u origin Afrxy
